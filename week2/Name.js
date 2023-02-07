@@ -2,7 +2,7 @@ import React, { Component } from "react";
 
 class Name extends Component 
 { 
-    state= { name: "Anshuman Singh!" };
+    state= { name: "Hamid Raza!" };
 
 
 
